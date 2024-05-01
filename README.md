@@ -15,7 +15,7 @@ Currently, I'm on the lookout for an exciting internship opportunity in Terengga
 - 🧪 Software Testing: Ensuring the quality and reliability of software through comprehensive testing methodologies.
 
 ### Let's Connect!
-If you're interested in collaborating or have an internship opportunity that aligns with my skills and interests, I'd love to hear from you! Feel free to reach out via [Gmail](athilyanase@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/athilyana/).
+If you're interested in collaborating or have an internship opportunity that aligns with my skills and interests, I'd love to hear from you! Feel free to reach out via [Gmail](mailto:athilyanase@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/athilyana/).
 
 Thank you for visiting my GitHub profile. Together, let's innovate and build a brighter future through technology! 🚀
 <!---
